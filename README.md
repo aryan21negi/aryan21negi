@@ -10,7 +10,7 @@
 </p>
 <!-- Social Badges -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/aryan-negi-3aaabb203/" target="_blank">
+  <a href="https://www.linkedin.com/in/aryan-negi21/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/aryan21negi" target="_blank">
